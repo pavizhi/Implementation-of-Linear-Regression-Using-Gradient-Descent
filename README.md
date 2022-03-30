@@ -81,7 +81,7 @@ plt.ylabel("loss")
 
 
 
-![output](./ml-4.png)
+![output](./m-5.png)
 
 
 ## RESULT:
