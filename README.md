@@ -29,7 +29,7 @@ To write a program to implement the linear regression using gradient descent.
  
 ## PROGRAM:
 ```
-/*
+
 Program to implement the linear regression using gradient descent.
 
 Developed by: B.PAVIZHI
@@ -70,7 +70,7 @@ plt.plot(loss)
 plt.xlabel("iteration")
 plt.ylabel("loss")
     
-*/
+
 ```
 
 ## OUTPUT:
