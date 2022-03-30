@@ -80,8 +80,6 @@ plt.ylabel("loss")
 ![output](./ml-2.png)
 
 
-![output](./ml-3.png)
-
 
 ![output](./ml-4.png)
 
